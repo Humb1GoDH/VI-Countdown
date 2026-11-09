@@ -18,7 +18,7 @@
 2. 解压后，将 `VI Countdown.app` 拖入“应用程序”文件夹。
 3. 双击打开。右键卡片可调整设置，菜单栏的 `VI` 可重新显示卡片。
 
-**系统要求：**Apple Silicon Mac（M 系列芯片），macOS 15 或以上。当前安装包不支持 Intel Mac。
+**系统要求**：Apple Silicon Mac（M 系列芯片），macOS 15 或以上。当前安装包不支持 Intel Mac。
 
 当前版本使用临时签名，尚未经过 Apple Developer ID 签名和公证。首次打开时，macOS 可能提示无法验证开发者；相关系统提示与处理方法请参阅 [Apple 官方说明](https://support.apple.com/zh-cn/102445)。
 
